@@ -5,3 +5,6 @@ This early prototype  will only model a subset of attributes for the game charac
 • Strength (The game character’s strength)  
 • Intelligence (The game character’s intelligence)  
 • Wisdom (The game character’s wisdom) 
+
+# Programming Techniques
+# Obtained marks: 26.67/30
